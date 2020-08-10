@@ -20,7 +20,7 @@ namespace PracticeProblem1
             int intTemp = Convert.ToInt32(Console.ReadLine());
             int intFinal = intTemp * intTemp * intTemp;
             Console.WriteLine(intFinal);
-
+            Console.ReadLine();
         }
     }
 }
